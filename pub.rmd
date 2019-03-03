@@ -1,0 +1,71 @@
+---
+output:
+  html_document:
+      theme: paper
+---
+<br>
+
+##**Publications**
+
+<br>
+
+<font size="3">
+
+I am happy to share a pdf version of the papers below that you do not have free access.
+<br>
+<br>
+
+**2019**
+
+**Rocha DG**, Vogliotti A, Gräbin DM, Assunção WRC, Cambraia BC, D’amico AR, Portela, AE, Sollmann R. New populations of pampas deer Ozotoceros bezoarticus discovered in the threatened Amazonian savannah enclaves. Oryx. in press.
+
+**Rocha DG**, Kaefer IL. What has become of the Refugia Hypothesis to explain biological diversity in Amazonia?. Ecology and Evolution. in press.
+
+Wang B, **Rocha DG**, Abrahams MI, Antunes AP, Costa HCM, Gonçalves ALS, Spironello WR, Paula MJ, Peres AC, Pezzuti J, Ramalho EE, Reis ML, Carvalho Jr E, Rohe F, Macdonald DW, Tan CKW. Habitat use of the ocelot (Leopardus pardalis) in Brazilian Amazon. Ecology and Ecolution. in press.
+  
+Rabelo RM, Goncalves JR, Silva FE, **Rocha DG**, Canale GR, Bernardo CSS, Boubli JP. 2019. Predicted distribution and habitat loss for the endangered Black-faced black spider monkey (Ateles chamek) in the Amazon. Oryx, early view. [(article)](https://www.cambridge.org/core/journals/oryx/article/predicted-distribution-and-habitat-loss-for-the-endangered-blackfaced-black-spider-monkey-ateles-chamek-in-the-amazon/92CEC320AC2D822602B47061348E1E2C)
+
+<br>
+ **2018**
+
+Agha M, Batter T, Bolas EC, Collins AC, **Rocha DG**, Monteza‐Moreno CM, Preckler‐Quisquat S., Sollmann R. (2018). A review of wildlife camera trapping trends across Africa. African Journal of Ecology, 56(4), 694-701. [(article)](https://onlinelibrary.wiley.com/doi/full/10.1111/aje.12565)
+
+Alvarenga GC, Ramalho EE, Baccaro FB, **Rocha DG**, Ferreira-Ferreira J, Bobrowiec PED. 2018. Spatial dynamics of medium- and large-sized mammal assemblages in várzea and terra firme forests, Central Amazonia, Brazil. PLoS ONE 13(5), e0198120. [(article)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198120)
+
+Azevedo FC, Lemos FG, Freitas-Júnior MC, **Rocha DG**, Azevedo FCC. 2018. Puma activity patterns and temporal overlap with prey in a human-modified landscape at Southeastern Brazil. Journal of Zoology. 305(4), 246-255. [(article)](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/jzo.12558)
+
+<br>
+ **2017**
+
+Tan CKW, **Rocha DG**, Clements GR, Brenes-Mora E, Hedges L, Kawanishi K, Mohamad SW, Rayan DM, Bolongon G, Moore J, Wadey J, Campos-Arceiz A, Macdonald DW. 2017. Habitat use and predicted range for the mainland clouded leopard Neofelis nebulosa in Peninsular Malaysia. Biological Conservation, 206, 65-74. *joint first authors. [(article)](https://www.sciencedirect.com/science/article/pii/S0006320716305134)
+
+<br>
+<left> **2016**
+
+**Rocha DG**, Ramalho EE, Magnusson WE. 2016. Baiting for carnivores might negatively affect capture rates of prey species in camera-trap studies. Journal of Zoology, 300(3), 205-212. [(article)](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/jzo.12372)
+
+Azevedo FC, Lemos FG, **Rocha DG**, Costa AN, Freitas-Junior MC. 2016. New-record of the bush dog Speothos venaticus in a human altered landscape in the west of Minas Gerais, Brazil. Bioscience Journal (Online), 32, 1324-1330. [(article)](http://www.seer.ufu.br/index.php/biosciencejournal/article/view/33302)
+
+**Rocha DG**, Sollmann R, Ramalho EE, Ilha R, Tan CKW. 2016. Ocelot (Leopardus pardalis) density in Central Amazonia. PLoS ONE, 11, e0154624. [(article)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154624)
+
+<br>
+<left> **2015**
+
+**Rocha DR**, Ramalho EE, Alvarenga GC, Gräbin DM, Magnusson WE. 2015. Records of the bush dog (Speothos venaticus) in Central Amazonia, Brazil. Journal of Mammalogy, 96 (5), 1361-1364. [(article)](https://academic.oup.com/jmammal/article/96/6/1361/1176523)
+
+**Rocha DG**. 2015. Activity patterns and factors that affect medium- and large- sized terrestrial mammal surveys in Central Amazonia. 2015. Mastozoología Neotropical, 22 (1), 204-205. [(article)](https://www.redalyc.org/revista.oa?id=457#)
+
+<br>
+<left> **2014**
+
+Morcatty TQ, Valsecchi J, **Rocha DG**. 2014. Geographic distribuition Platemys latycephala platycephala. Herpetological Review, 45 (4), 657. [(PDF)](https://www.dropbox.com/s/0jsfnoliczl5xv3/HR%20Dec%202014%20ebook.pdf?dl=1)
+
+<br>
+<left> **2013**
+
+**Rocha DG**, Passamani M. 2013. Influence of pitfall designs and use of baits on the capture of small mammals in Southern Minas Gerais, Brazil - Acta Scientiarum. Biological Sciences (Online), 35, 499-503. [(PDF)](http://www.redalyc.org/service/redalyc/downloadPdf/1871/187129138006/6)
+
+<br>
+
+
+<center>![](pics/roxo2.jpg){width=900px}
