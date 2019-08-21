@@ -6,7 +6,7 @@ output:
 <br>
 
 
-<center>##**Ecology and Conservation of Amazonian Mammals**
+<center>##**Amazonian mammal research**
 
 <br>
 <br>
@@ -36,4 +36,4 @@ I am intrigued and fascinated by how Amazonia is one of the most biodiverse, and
 
 ###### Instituto de Desenvolvimento Sustentável Mamirauá
 
-###### [Grupo de Pesquisa em Ecologia e Conservação de Felinos na Amazônia](https://www.mamiraua.org.br/pt-br/pesquisa-e-monitoramento/grupos-de-pesquisas/gp-felinos/)
+###### [Grupo de Pesquisa em Ecologia e Conservação de Felinos na Amazônia](https://www.mamiraua.org.br/gp-felinos)
