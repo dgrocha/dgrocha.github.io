@@ -4,15 +4,12 @@ output:
       theme: paper
 ---
 <br>
+<font size="7">
+**Research**
 
-##**Research**
 
-<br>
 
 ![](pics/forest.jpg){width=900px}
-
-<br>
-<br>
 
 <font size="3">
 
@@ -65,7 +62,7 @@ Despite their ecological role, carnivore behaviors often pose a direct threat to
 <br>
 
 <br>
-**Amazonian Mammals Ecology (beyond carnivores…)** 
+**The Amazon-Cerrado Ecotone** 
 
 The Amazonia is poorly studied <sup>(5)</sup>. Consequently, we still lack of knowledge on species ecology, including basic aspects such as their distributions. Moreover, large areas of the Amazonian forests have never been properly surveyed. This is worrying because some of those areas are under severe threat, and we are risking lose tracts of Amazonian biodiversity before they are discovered.
 

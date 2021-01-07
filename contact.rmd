@@ -4,10 +4,9 @@ output:
       theme: paper
 ---
 <br>
+<font size="7">
+**Contact**
 
-##**Contact**
-
-<br>
 
 <font size="5">
 

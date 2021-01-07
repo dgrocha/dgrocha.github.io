@@ -1,20 +1,17 @@
 ---
 output:
+  html_document:
   flexdashboard::flex_dashboard:
     theme: paper
 ---
-
 <br>
+ 
+<font size="7">
 
-##**Data sites**
+**Data sites**
 
-<br>
 
 <font size="3">
-
-
-
-
 
 -------------------------------------
 
@@ -23,7 +20,7 @@ Sampling locations in the southern Brazilian Amazonia
 ```{r echo=F, warning=F, message=F, fig.width=9.5, fig.height=4.5}
 rm(list=ls())
 
-library("flexdashboard")
+library(flexdashboard)
 library(sf)
 library(raster)
 library(leaflet)
@@ -52,7 +49,7 @@ mapcol <- brewer.pal(3, "Set2")
 ####Map          
 leaflet() %>% 
   addTiles() %>% 
-  setView(lng = -63, lat = -8.5, zoom = 8) %>%
+  setView(lng = -63, lat = -10.5, zoom = 6.2) %>%
   addProviderTiles(providers$Esri.WorldPhysical) %>% 
   
   
@@ -60,7 +57,7 @@ leaflet() %>%
   
   addCircleMarkers(data = ct_geo, group = "Camera trap", lat=~Y, lng=~X, 
                    opacity= 0.9, stroke = TRUE,
-                   popup=paste0 ("ID: ", ": ", ct[,1]), 
+                   popup=paste0 ("ID: ", ct[,1]), 
                    weight=0.9,radius=3, color = "Blue", fillColor = "blue") %>% 
   hideGroup("Camera trap") %>% 
   

@@ -5,11 +5,9 @@ output:
 ---
 <br>
 
+<font size="7">
+<center>**Amazonian mammal research**
 
-<center>##**Amazonian mammal research**
-
-<br>
-<br>
 
 <font size="3">
 

@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title></title>
+<title>research.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,6 +22,15 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -69,9 +78,8 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
+
 
 <style type = "text/css">
 .main-container {
@@ -85,13 +93,18 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -107,7 +120,6 @@ body {
   padding-top: 69px;
   margin-top: -69px;
 }
-
 .section h2 {
   padding-top: 69px;
   margin-top: -69px;
@@ -127,6 +139,43 @@ body {
 .section h6 {
   padding-top: 69px;
   margin-top: -69px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -148,19 +197,74 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -198,6 +302,9 @@ $(document).ready(function () {
 <li>
   <a href="contact.html">Contact</a>
 </li>
+<li>
+  <a href="test.html">test</a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -211,15 +318,8 @@ $(document).ready(function () {
 </div>
 
 
-<p><br></p>
-<div id="research" class="section level2">
-<h2><strong>Research</strong></h2>
-<p><br></p>
-<div class="figure">
-<img src="pics/forest.JPG" width="900" />
-
-</div>
-<p><br> <br></p>
+<p><br> <font size="7"> <strong>Research</strong></p>
+<p><img src="pics/forest.JPG" width="900" /></p>
 <p><font size="3"></p>
 <p><left> The Amazonian forest is the largest tropical forest in the world and arguably the most biodiverse terrestrial ecosystem. For the past decades, Amazonia has experienced unprecedented threats, particularly the persistent high deforestation rates, widespread use of fire, and global climate change <sup>(1)</sup>. It is expected that, with current trends, 40% of Amazonian forests will be cleared by 2050 <sup>(2)</sup>, leaving behind highly fragmented forest patches in a human-dominated landscape. This ongoing drastic change in habitat availability and configuration raises concerns for the future of the many Amazonian forest-dependent wildlife species. To anticipate and mitigate the threats to wildlife, it is important to understand how species are affected by the rapidly changing landscape and increasing human presence.</p>
 <p>Mammalian carnivores (Order Carnivora) are experiencing severe declines in their populations and geographic ranges worldwide. Owing to their fundamental importance in the maintenance of the structure and function of terrestrial ecosystems, declines in carnivore population have direct and indirect effects on several processes including diversity maintenance, disease dynamics, carbon sequestration and stream flow <sup>(3)</sup>. The primary drivers of carnivore declines are <strong>habitat loss</strong> and <strong>human persecution</strong> <sup>(4)</sup>, and therefore, those are the main focus of my research.</p>
@@ -244,25 +344,21 @@ $(document).ready(function () {
 <p><br></p>
 <p><br></p>
 <p><br></p>
-<p><br> <strong>Amazonian Mammals Ecology (beyond carnivores…)</strong></p>
+<p><br> <strong>The Amazon-Cerrado Ecotone</strong></p>
 <p>The Amazonia is poorly studied <sup>(5)</sup>. Consequently, we still lack of knowledge on species ecology, including basic aspects such as their distributions. Moreover, large areas of the Amazonian forests have never been properly surveyed. This is worrying because some of those areas are under severe threat, and we are risking lose tracts of Amazonian biodiversity before they are discovered.</p>
 <p>The southern Brazilian Amazonia is one of those poorly studied and severely threatened areas. It is located at the border of the Amazonian forest and the Brazilian savanna (Cerrado), comprising heterogeneous mosaics of open areas and forests with a highly diverse faunal community composed of savannah and forest species. Our extensive surveys in this region will help to refine Amazonian species distribution limits and have the potential to document distribution range shifts as forest cover decreases in response to land use and climate change.</p>
-<div class="figure">
-<img src="pics/atelocynus2.jpg" width="900" />
-
-</div>
+<p><img src="pics/atelocynus2.jpg" width="900" /></p>
 <p><br></p>
 <p><br></p>
 <p><font size="1"></p>
 <p><strong>References</strong></p>
 <ol style="list-style-type: decimal">
 <li><p>Lovejoy, T. E. &amp; Nobre, C. Amazon tipping point. Sci. Adv. 4, 1–2 (2018).</p></li>
-<li><p>Soares-Filho, B. S. et al. Modelling conservation in the Amazon basin. Nature 440, 520–523 (2006).</p></li>
-<li><p>Ripple, W. J. et al. Status and Ecological Effects of the World’s Largest Carnivores. Science (80) 343, (2014).</p></li>
+<li><p>Soares-Filho, B. S. et al. Modelling conservation in the Amazon basin. Nature 440, 520–523 (2006).</p></li>
+<li><p>Ripple, W. J. et al. Status and Ecological Effects of the World’s Largest Carnivores. Science (80) 343, (2014).</p></li>
 <li><p>Woodroffe, R., Thirgood, S. &amp; Rabinowitz, A. People and Wildlife: conflict or coexistence. (2005).</p></li>
 <li><p>Leite, R. N. &amp; Rogers, D. S. Revisiting Amazonian phylogeography: Insights into diversification hypotheses and novel perspectives. Org. Divers. Evol. 13, 639–664 (2013).</p></li>
 </ol>
-</div>
 
 
 
@@ -273,7 +369,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -281,6 +377,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

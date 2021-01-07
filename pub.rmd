@@ -4,20 +4,28 @@ output:
       theme: paper
 ---
 <br>
+<font size="7">
+**Publications**
 
-##**Publications**
 
-<br>
 
 <font size="3">
 
 I am happy to share a pdf version of the papers below that you do not have free access.
 <br>
-<br>
 
+<br>
+**2020**
+
+**Rocha DG**, de Barros FKMPM, Gonçalves L, Tan CKW, Lemos FG, Ortiz C, Peres CA, Negroes N, Antunes AP, Rohe F, Abrahams M, Zapata-Rios G, Teles D, Oliveira T, von Muhlen EM, Venticinque, Grabin DM, Mosquera BD, Blake J, Lima MGM, Sampaio R, Percequillo AR, Peters F, Payan E, Borges LHM, Calouro AM, Endo W, Pitman RL, 
+Haugaasen T, Silva DA, de Melo FR, de Moura ALB, Costa HCM, Lugarini C, de Sousa IG, Nienow S, Santos F, Mendes-Oliveiras AC, Del Toro-Orozco W, D'Amico AR, Albernaz AL, Ravetta A, do Carmo ECO, Ramalho EE, Valsecchi J, Giordano AJ, Wallace R, Macdonald DW and Sollmann R. 2020. Wild dogs at stake: deforestation threatens the only Amazon endemic canid, the short-eared dog (Atelocynus microtis). Royal Society of Open Science. 7190717 [(article)](https://doi.org/10.1098/rsos.190717)
+
+<br>
 **2019**
 
-**Rocha DG**, Hedges L, Cambraia BC. Endangered crowned solitary eagle Buteogallus coronatus in the threatened Amazonian savannah. Oryx. in press.
+**Rocha DG**, Hedges L, and Cambraia BC. 2019. Endangered crowned solitary eagle Buteogallus coronatus in the threatened Amazonian savannah. Oryx. 53(4), 607-608. [(article)](https://doi.org/10.1017/S0030605319000516)
+
+Lopes GP, Jaskulski A, Santos AT, Montanarin A, **Rocha DG**, Gräbin DM, Ramalho EE, Alvarenga GC, Bizri HRE, Junqueira I, Cobra IVD, Gomes L, Araújo M, Pereira P, Gonçalves JR, Cardoso N, Ilha R, Carvalho R and Valsecchi J. 2019. Mamíferos terrestres. in Sociobiodiversidade da Reserva de Desenvolvimento Sustentável Amanã (1998-2018): 20 anos de pesquisas (eds A. C. S. do Nascimento, et al.). Tefé, AM. Instituto Desenvolvimento Sustentável Mamiraua. 352p. [(article)](https://www.mamiraua.org.br/documentos/1a8fb464341de84156fef2c2eb778be3.pdf)
 
 **Rocha DG**, Vogliotti A, Gräbin DM, Assunção WRC, Cambraia BC, D’amico AR, Portela, AE, Sollmann R. 2019. New populations of pampas deer Ozotoceros bezoarticus discovered in the threatened Amazonian savannah enclaves. Oryx. early view. [(article)](https://doi.org/10.1017/S0030605318001539)
 
